@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 // import reactLogo from "./assets/react.svg";
 // import viteLogo from "/vite.svg";
 import './App.css';
@@ -44,7 +44,7 @@ function App() {
 
   return (
     <MantineProvider theme={theme}>
-      <Notifications position="top-center" />
+      <Notifications position="top-right" />
 
       <Container>
         <Title>A template of Vite + React + TS + Mantine UI</Title>
