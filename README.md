@@ -15,8 +15,16 @@ Runtime requirements:
 
 Build it:
 
-  pnpm i
-  pnpm dev
+pnpm i
+pnpm dev
+
+## Screenshots
+
+![1](./screenshot-1.png)
+
+![2](./screenshot-2.png)
+
+![3](./screenshot-3.png)
 
 ## Batteries included
 
