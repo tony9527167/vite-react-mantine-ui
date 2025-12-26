@@ -1,4 +1,24 @@
-# React + TypeScript + Vite + Mantine UI Template
+# A React + TypeScript + Vite + Mantine UI Template
+
+Build requirements:
+
+- node.js 18.x or newer
+
+Runtime requirements:
+
+- OS
+  - Windows 7 or newer
+  - macOS 11 or newer
+- browser
+  - Microsoft Edge 109 or newer
+  - Apple Safari 16 or newer
+
+Build it:
+
+  pnpm i
+  pnpm dev
+
+## Batteries included
 
 This template provides a minimal setup to get React + Mantine UI working in Vite with HMR and some ESLint rules.
 
